@@ -1,0 +1,10 @@
+#ifndef MYMATH_H
+#define MYMATH_H
+
+double add(double x, double y);
+double sub(double x, double y);
+double mult(double x, double y);
+double divide(double x, double y);
+double power(double x, int y);
+
+#endif 
